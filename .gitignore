@@ -1,36 +1,33 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+*.class
 
-# Folder config file
-Desktop.ini
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+# Package Files #
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
+*.war
+*.ear
 
-# =========================
-# Operating System Files
-# =========================
+/.metadata/
+/.settings/
+/.gradle/
+/build/
+/eclipse/
 
-# OSX
-# =========================
+/logs/
+/crash-reports/
+/config/
+/saves/
+/bin/
 
-.DS_Store
-.AppleDouble
-.LSOverride
 
-# Icon must ends with two \r.
-Icon
+# .classpath
+# .project
+server.properties
+options.txt
 
-# Thumbnails
-._*
 
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+*.bat

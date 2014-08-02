@@ -1,0 +1,48 @@
+package com.jared.mysticaltrinkets.tileentities;
+
+import net.minecraft.block.Block;
+import net.minecraft.tileentity.TileEntity;
+import net.minecraftforge.common.util.ForgeDirection;
+import cofh.api.energy.IEnergyConnection;
+import cofh.api.energy.TileEnergyHandler;
+
+import com.jared.mysticaltrinkets.blocks.MysticalBlocks;
+
+public class TileEntityMEM extends TileEnergyHandler implements IEnergyConnection {
+
+	public TileEntityMEM() {
+		this.storage.setCapacity(20000);
+		this.storage.setMaxExtract(20);
+		this.storage.setMaxReceive(10);
+		this.storage.setMaxTransfer(20);
+	}
+
+	@Override
+	public void updateEntity() {
+		if (checkForBlock(xCoord, yCoord, zCoord - 1, MysticalBlocks.mysticalInfuserActive)) {
+			if (worldObj.getTileEntity(xCoord, yCoord, zCoord - 1) != null) {
+				TileEntityMysticalInfuser infuser = (TileEntityMysticalInfuser) worldObj.getTileEntity(xCoord, yCoord, zCoord - 1);
+				if (infuser.getAirBuffer() > 0 && this.getEnergyStored(ForgeDirection.NORTH)<this.getMaxEnergyStored(ForgeDirection.NORTH)) {
+					infuser.setAirBuffer(infuser.getAirBuffer() - 1);
+					this.receiveEnergy(ForgeDirection.NORTH, 20, false);
+				}
+			}
+		}
+
+//		if (worldObj.getTileEntity(xCoord, yCoord, zCoord + 1) != null) {
+//			if (this.getEnergyStored(ForgeDirection.NORTH) > 0) {
+//				this.extractEnergy(ForgeDirection.SOUTH, 20, false);
+//
+//			}
+//		}
+	}
+
+	public boolean checkForBlock(int x, int y, int z, Block block) {
+		if (worldObj.getBlock(x, y, z) == block) {
+			return true;
+		} else {
+			return false;
+		}
+
+	}
+}

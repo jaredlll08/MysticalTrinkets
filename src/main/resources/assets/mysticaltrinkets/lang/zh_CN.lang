@@ -1,0 +1,107 @@
+item.Mystical_Ring.name=奥秘指环
+item.Ring_Of_Fire_Resistance.name=火抗指环
+item.Ring_Of_Night_Vision.name=夜视指环
+item.Ring_Of_The_Lava_Swimmer.name=泅炎指环
+item.Mystical_Amulet.name=奥秘护符
+item.Amulet_Of_Water_Breathing.name=水肺护符
+item.Witherless_Amulet.name=不凋护符
+item.Mystical_Belt.name=奥秘腰带
+item.Speed_Belt.name=迅风腰带
+item.Jumping_Belt.name=云纵腰带
+item.Stepping_Belt.name=跨步腰带
+item.Mystical_Ingot.name=奥秘锭
+
+item.Iron_Amulet.name=铁护符
+item.Iron_Belt.name=铁腰带
+item.Iron_Ring.name=铁指环
+item.Burnt_Ring.name=烧焦指环
+item.Rusty_Amulet.name=锈蚀护符
+item.Rusty_Belt.name=锈蚀腰带
+item.Rusty_Ring.name=锈蚀指环
+
+
+item.Gold_Ring.name=金指环
+item.Gold_Amulet.name=金护符
+item.Gold_Belt.name=金腰带
+
+item.Air_Shard.name=风之裂片
+item.Fire_Shard.name=火之裂片
+item.Nature_Shard.name=自然裂片
+item.Water_Shard.name=水之裂片
+item.Mystical_Reader.name=奥秘之表
+
+item.Hunger_Ring.name=饥馑指环
+item.Absorbtion_Amulet.name=专注护符
+item.Auto_Clicking_Ring.name=自动点击指环
+item.Clipping_Belt.name=裁剪腰带
+
+item.Mystical_Sword.name=奥秘剑
+item.Mystical_Pickaxe.name=奥秘镐
+item.Mystical_Axe.name=奥秘斧
+item.Mystical_Spade.name=奥秘铲
+item.Mystical_Hoe.name=奥秘锄
+
+tile.Mystical Ore.name=奥秘矿石
+tile.Mystical Block.name=奥秘方块
+tile.Ritual Block.name=仪式方块
+tile.Burnt Ritual Block.name=烧焦仪式方块
+tile.Water Ritual Block.name=水之仪式方块
+tile.Ritual Block Nature.name=自然仪式方块
+tile.Ritual Block Air.name=风之仪式方块
+
+tile.Mystical Brick.name=奥秘砖块
+tile.Inactive Mystical Infuser.name=未活化注魔器
+tile.Mystical Infuser.name=奥秘注魔器
+
+tile.Infused Oak Wood.name=注魔橡树原木
+tile.Infused Oak Leaves.name=注魔橡树树叶
+
+tile.Burnt Shard Block.name=焦黑裂片方块
+tile.Floating Shard Block.name=浮空裂片方块
+tile.Nature Shard Block.name=自然裂片方块
+tile.Soaked Shard Block.name=浸水裂片方块
+
+tile.Burnt Glass.name=烧焦玻璃
+tile.Floating Glass.name=浮空玻璃
+tile.Soaked Glass.name=浸水玻璃
+tile.Nature Glass.name=自然玻璃
+
+tile.Infused Oak Planks.name=注魔橡树木板
+tile.Infused Oak Fence.name=注魔橡树栅栏
+
+tile.Burnt Shard Ore.name=焦黑裂片矿石
+tile.Floating Shard Ore.name=浮空裂片矿石
+tile.Nature Shard Ore.name=自然裂片矿石
+tile.Soaked Shard Ore.name=浸水裂片矿石
+
+item.Mystical_Hammer.name=奥秘之锤
+item.Slow_Fall_Belt.name=羽落腰带
+
+
+item.Mystical_Helmet.name=奥秘头盔
+item.Mystical_Helmet_Fire.name=火之奥秘头盔
+item.Mystical_Helmet_Air.name=风之奥秘头盔
+item.Mystical_Helmet_Nature.name=自然奥秘头盔
+item.Mystical_Helmet_Water.name=水之奥秘头盔
+
+
+item.Mystical_ChestPlate.name=奥秘胸甲
+item.Mystical_ChestPlate_Fire.name=火之奥秘胸甲
+item.Mystical_ChestPlate_Air.name=风之奥秘胸甲
+item.Mystical_ChestPlate_Nature.name=自然奥秘胸甲
+item.Mystical_ChestPlate_Water.name=水之奥秘胸甲
+
+
+item.Mystical_Leggings.name=奥秘护腿
+item.Mystical_Leggings_Fire.name=奥秘护腿
+item.Mystical_Leggings_Air.name=风之奥秘护腿
+item.Mystical_Leggings_Nature.name=自然奥秘护腿
+item.Mystical_Leggings_Water.name=水之奥秘护腿
+
+item.Mystical_Boots.name=奥秘靴子
+item.Mystical_Boots_Fire.name=火之奥秘靴子
+item.Mystical_Boots_Air.name=风之奥秘靴子
+item.Mystical_Boots_Nature.name=自然奥秘靴子
+item.Mystical_Boots_Water.name=水之奥秘靴子
+
+itemGroup.Mystical Trinkets=奥秘饰品

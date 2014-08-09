@@ -1,0 +1,82 @@
+item.Mystical_Ring.name=Mystical Ring
+item.Ring_Of_Fire_Resistance.name=Ring of Fire Resistance
+item.Ring_Of_Night_Vision.name=Night Vision Ring
+item.Ring_Of_The_Lava_Swimmer.name=Lava Swimming Ring
+item.Mystical_Amulet.name=Mystical Amulet
+item.Amulet_Of_Water_Breathing.name=Water Breathing Amulet
+item.Witherless_Amulet.name=Witherless Amulet
+item.Mystical_Belt.name=Mystical Belt
+item.Speed_Belt.name=Speed Belt
+item.Jumping_Belt.name=Jumping Belt
+item.Stepping_Belt.name=Stepping Belt
+item.Mystical_Ingot.name=Mystical Ingot
+
+item.Iron_Amulet.name=Iron Amulet
+item.Iron_Belt.name=Iron Belt
+item.Iron_Ring.name=Iron Ring
+item.Burnt_Ring.name=Burnt Ring
+item.Rusty_Amulet.name=Rusty Amulet
+item.Rusty_Belt.name=Rusty Belt
+item.Rusty_Ring.name=Rusty Ring
+
+
+item.Gold_Ring.name=Gold Ring
+item.Gold_Amulet.name=Gold Amulet
+item.Gold_Belt.name=Gold Belt
+
+item.Air_Shard.name=Air Shard
+item.Fire_Shard.name=Fire Shard
+item.Nature_Shard.name=Nature Shard
+item.Water_Shard.name=Water Shard
+item.Mystical_Reader.name=Mystical Reader
+
+item.Hunger_Ring.name=Hunger Ring
+item.Absorbtion_Amulet.name=Absorption Amulet
+item.Auto_Clicking_Ring.name=Auto-Clicking Ring
+item.Clipping_Belt.name=Clipping Belt
+
+item.Mystical_Sword.name=Mystical Sword
+item.Mystical_Pickaxe.name=Mystical Pickaxe
+item.Mystical_Axe.name=Mystical Axe
+item.Mystical_Spade.name=Mystical Shovel
+item.Mystical_Hoe.name=Mystical Hoe
+
+tile.Mystical Ore.name=Mystical Ore
+tile.Mystical Block.name=Mystical Block
+tile.Ritual Block.name=Ritual Block
+tile.Burnt Ritual Block.name=Burnt Ritual Block
+tile.Water Ritual Block.name=Water Ritual Block
+tile.Ritual Block Nature.name=Nature Ritual Block
+tile.Ritual Block Air.name=Air Ritual Block
+
+tile.Mystical Brick.name=Mystical Brick
+tile.Inactive Mystical Infuser.name=Inactive Mystical Infuser
+tile.Mystical Infuser.name=Mystical Infuser
+
+tile.Infused Oak Wood.name=Infused Oak Wood
+tile.Infused Oak Leaves.name=Infused Oak Leaves
+
+tile.Burnt Shard Block.name=Burnt Shard Block
+tile.Floating Shard Block.name=Floating Shard Block
+tile.Nature Shard Block.name=Nature Shard Block
+tile.Soaked Shard Block.name=Soaked Shard Block
+
+tile.Burnt Glass.name=Burnt Glass
+tile.Floating Glass.name=Floating Glass
+tile.Soaked Glass.name=Soaked Glass
+tile.Nature Glass.name=Nature Glass
+
+tile.Infused Oak Planks.name=Infused Oak Planks
+tile.Infused Oak Fence.name=Infused Oak Fence
+
+tile.Burnt Shard Ore.name=Burnt Shard Ore
+tile.Floating Shard Ore.name=Floating Shard Ore
+tile.Nature Shard Ore.name=Nature Shard Ore
+tile.Soaked Shard Ore.name=Soaked Shard Ore
+
+item.Mystical_Hammer.name=Mystical Hammer
+item.Slow_Fall_Belt.name=Slow Fall Belt
+
+
+
+itemGroup.Mystical Trinkets=Mystical Trinkets
